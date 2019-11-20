@@ -2,7 +2,9 @@
   "name": "brew",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/JacobDJohnson/A-W-Brewing.git",
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "git": "^0.1.5",
     "npm-git-install": "^0.3.0",
     "react": "^16.12.0",
